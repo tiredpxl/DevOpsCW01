@@ -21,7 +21,7 @@ class Dec2Hex
             num= num/16;
         }
 
-        System.out.println("The Decimal Value " + num + " has a Hexadecimal representation of: " + hexadecimal);
+        System.out.println("The number has a Hexadecimal representation of: " + hexadecimal);
 
     }
 }
